@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/counter/static/css/main.135ab78d.css",
-    "main.js": "/counter/static/js/main.84931e6c.js",
-    "index.html": "/counter/index.html",
-    "main.135ab78d.css.map": "/counter/static/css/main.135ab78d.css.map",
-    "main.84931e6c.js.map": "/counter/static/js/main.84931e6c.js.map"
+    "main.css": "/MarPez10/modal.git/static/css/main.eab0744e.css",
+    "main.js": "/MarPez10/modal.git/static/js/main.14347873.js",
+    "index.html": "/MarPez10/modal.git/index.html",
+    "main.eab0744e.css.map": "/MarPez10/modal.git/static/css/main.eab0744e.css.map",
+    "main.14347873.js.map": "/MarPez10/modal.git/static/js/main.14347873.js.map"
   },
   "entrypoints": [
-    "static/css/main.135ab78d.css",
-    "static/js/main.84931e6c.js"
+    "static/css/main.eab0744e.css",
+    "static/js/main.14347873.js"
   ]
 }
